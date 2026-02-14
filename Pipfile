@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+django = "*"
+django-environ = "*"
+django-extensions = "*"
+django-easy-logging = "*"
+flake8 = "*"
+black = "*"
 
 [dev-packages]
 
