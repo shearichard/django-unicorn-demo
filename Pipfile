@@ -10,6 +10,7 @@ django-extensions = "*"
 django-easy-logging = "*"
 flake8 = "*"
 black = "*"
+django-unicorn = "*"
 
 [dev-packages]
 
